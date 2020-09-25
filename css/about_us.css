@@ -1,8 +1,8 @@
 #history_banner {
     height: 400px;
     width: 300px;
-    /* background-image: url("../images/history_picture.jpg"); */
-    /* background-repeat: no-repeat; */
+    background-image: url("../images/history.jpg");
+    background-repeat: round;
     /* background-position: 40px 50px; */
     /* background-attachment: local; */
     /* background-size: center center; */
@@ -17,16 +17,16 @@
     /* border: 20px solid crimson; */
     /* overflow: scroll; */
     /* box-sizing: border-box; */
-    box-shadow: 40px 40px 50px red;
+    box-shadow: 40px 40px 50px slategray;
     /* display: none; */
-    position: fixed;
+    /* position: fixed; */
     top: 50px;
     /* right: 200px; */
     z-index: -10;
     border-radius: 15px;
 }
 
-ul, li {
-    display: inline;
-    /* height:500px; */
-}
+/* ul, li { */
+    /* display: inline; */
+    /* height:50px; */
+/* } */
