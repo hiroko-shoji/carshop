@@ -1,0 +1,27 @@
+.box {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+#box1 {
+    background-color:blue;
+    border: 10px dashed white;
+    margin-bottom: 10px;
+}
+
+#box2 {
+    background-color: green;
+    border: 10px dashed  white;
+    margin-bottom: 10px;
+}
+#box3 {
+    background-color: red;
+    border:10px dashed  white;
+    margin-bottom: 10px;
+}
+#box4 {
+    background-color: brown;
+    border: 10px dashed white;
+    margin-bottom: 10px;
+}

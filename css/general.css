@@ -1,0 +1,56 @@
+/* h3 {
+    background-color:tomato !important;
+}
+
+p {
+    background-color:blue !important;
+    font-family:Arial;
+} */
+
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.highlight {
+    background-color:tan;
+    text-indent: 10px;
+    word-spacing: 2px;
+}
+
+#company_name {
+    background-color: #fff462;
+    color: gray;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 4px 10px 5px black;
+    letter-spacing: 10px;
+}
+
+ul {
+    /* list-style-type: square; */
+    /* list-style-position: outside; */
+    list-style: square outside;
+}
+
+#container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+table {
+    empty-cells: show;
+    border-collapse: collapse;
+    /* border-spacing: 10px 10px; */
+}
+
+a:hover {
+    background-color: yellowgreen;
+}
+
+#firstname:focus {
+    background-color: yellow;
+}

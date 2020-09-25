@@ -1,0 +1,32 @@
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+#box1 {
+    background-color:blue;
+    border: 18px dotted orange;
+    }
+
+#box2 {
+    background-color: green;
+    border: 18px dotted orange;
+}
+
+#box3 {
+    background-color: red;
+    border: 18px dotted orange;
+
+}
+
+#box4 {
+    background-color: brown;
+    border: 18px dotted orange;
+
+}
+table {
+    empty-cells: show;
+    border-collapse: unset;
+    margin: auto;
+    border-spacing: 0px;
+}

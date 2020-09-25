@@ -1,0 +1,32 @@
+#history_banner {
+    height: 400px;
+    width: 300px;
+    /* background-image: url("../images/history_picture.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-position: 40px 50px; */
+    /* background-attachment: local; */
+    /* background-size: center center; */
+    /* background: pink url("../images/history_picture.jpg") no-repeat 0px; */
+    /* margin: 50px 50px 50px 50px; */
+    /* padding-top: 35px; */
+    /* margin-bottom: 50px; */
+    /* padding-left: 70px; */
+    /* margin-right: 70px; */
+    background-color: coral;
+    /* padding: 50px 50px 50px 50px; */
+    /* border: 20px solid crimson; */
+    /* overflow: scroll; */
+    /* box-sizing: border-box; */
+    box-shadow: 40px 40px 50px red;
+    /* display: none; */
+    position: fixed;
+    top: 50px;
+    /* right: 200px; */
+    z-index: -10;
+    border-radius: 15px;
+}
+
+ul, li {
+    display: inline;
+    /* height:500px; */
+}
